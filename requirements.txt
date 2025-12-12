@@ -1,0 +1,8 @@
+streamlit
+openrouteservice
+google-generativeai
+geopy
+gTTS
+SpeechRecognition
+streamlit-mic-recorder
+pydub
